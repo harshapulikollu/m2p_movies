@@ -1,16 +1,33 @@
 # m2p_movies
 
-A new Flutter project.
+A m2p_movies app created using Flutter.
 
-## Getting Started
+## How to switch b/w grid and listview
+In home screen on top right we have a toggle button to switch b/w Grid view and list view.
 
-This project is a starting point for a Flutter application.
+## Download
 
-A few resources to get you started if this is your first Flutter project:
+- [Download Android APK](https://github.com/harshapulikollu/m2p_movies/raw/main/apk/app-release.apk)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Screenshot 1                                                                                           | Screenshot 2                                                                                           |
+|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| ![Screenshot 1](https://github.com/harshapulikollu/m2p_movies/blob/main/screenshots/img1.png?raw=true) | ![Screenshot 2](https://github.com/harshapulikollu/m2p_movies/blob/main/screenshots/img2.png?raw=true) |
+| Splash screen                                                                                          | Home screen List view                                                                                  |
+
+| Screenshot 3                                                                                           | Screenshot 4                                                                                           |
+|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| ![Screenshot 3](https://github.com/harshapulikollu/m2p_movies/blob/main/screenshots/img3.png?raw=true) | ![Screenshot 4](https://github.com/harshapulikollu/m2p_movies/blob/main/screenshots/img4.png?raw=true) |
+| Home screen Grid view                                                                                  | Search results Grid view                                                                               |
+
+| Screenshot 5                                                                                           | Screenshot 6                                                                                           |
+|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| ![Screenshot 5](https://github.com/harshapulikollu/m2p_movies/blob/main/screenshots/img5.png?raw=true) | ![Screenshot 6](https://github.com/harshapulikollu/m2p_movies/blob/main/screenshots/img6.png?raw=true) |
+| Search results List view                                                                               | Details screen                                                                                         |
+
+## Contact
+
+[Email](mailto:harshapulikollu@gmail.com) |
+[Github](https://github.com/harshapulikollu) |
+[LinkedIn](https://www.linkedin.com/in/harshapulikollu/)

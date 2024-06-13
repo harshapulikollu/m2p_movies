@@ -9,7 +9,7 @@ class SplashPage extends StatelessWidget {
       backgroundColor: Colors.black,
       body: const Center(
         child: Text(
-          'M2P Movies',
+          'M2P Tunes',
           style: TextStyle(
             fontSize: 36.0,
             fontWeight: FontWeight.bold,
